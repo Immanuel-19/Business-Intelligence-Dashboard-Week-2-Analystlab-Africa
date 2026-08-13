@@ -15,7 +15,7 @@ An interactive Power BI dashboard can be downloaded [here.](https://github.com/I
 
 # Data Structure & Initial Checks
 
-The Global Superstore dataset consists of a single table containing 24 columns and 51,290 records. The dataset captures information across orders, customers, geographical locations, products, sales, discounts, shipping, and profitability, providing the necessary data to evaluate the company's overall business performance.
+The Global Superstore dataset consists of a single table containing 24 columns and 51,290 records. The dataset was further divided into six tables during modelling using a star schema. The dataset captures information across orders, customers, geographical locations, products, sales, discounts, shipping, and profitability, providing the necessary data to evaluate the company's overall business performance.
 
 ![Global Superstore ERD](dashboards/data_model.png)
 
