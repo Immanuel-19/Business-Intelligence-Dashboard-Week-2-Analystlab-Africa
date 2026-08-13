@@ -21,3 +21,15 @@ The Global Superstore dataset consists of a single table containing 24 columns a
 
 The initial data inspection focused on understanding the dataset structure, reviewing the available fields, and assessing the quality of the data before proceeding with transformation, modelling, and dashboard development.
 
+
+# Executive Summary
+
+### Overview of Findings
+
+Global Superstore demonstrated strong growth between 2011 and 2014, with sales increasing from $2.26M to $4.30M, representing a 90% increase, while profit grew from $249K to $504K. However, despite this substantial growth, the company's overall profit margin remained relatively flat at approximately 11–12%, indicating that increased sales volume has not translated into significant improvements in profitability
+
+The analysis identifies several key factors affecting profitability. Excessive discounting, particularly discounts above 20%, is significantly eroding profits, while Furniture—especially the Tables sub-category— remains a major source of losses. Regional performance also varies considerably, with some markets generating strong sales but relatively low margins.
+
+The following sections explore these findings in greater detail, highlighting the key performance drivers, business risks, opportunities, and actionable recommendations identified through the analysis.
+
+Below is the overview page from the Power BI dashboard, with additional dashboard pages and visualizations included throughout the report. The complete interactive dashboard is available in the project's GitHub repository.
