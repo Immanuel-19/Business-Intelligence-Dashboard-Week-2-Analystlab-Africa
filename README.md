@@ -32,7 +32,7 @@ The analysis identifies several key factors affecting profitability. Excessive d
 
 The following sections explore these findings in greater detail, highlighting the key performance drivers, business risks, opportunities, and actionable recommendations identified through the analysis.
 
-Below is the overview page from the Power BI dashboard, with additional dashboard pages and visualizations included throughout the report. The complete interactive dashboard is available in the project's GitHub repository.
+Below is the overview page from the Power BI dashboard, with additional dashboard pages and visualizations included throughout the report. The complete interactive dashboard is available [here.](https://github.com/Immanuel-19/Business-Intelligence-Dashboard-Week-2-Analystlab-Africa/raw/refs/heads/main/dashboards/Global_Sales_Performance_Report.pbix)
 
 
 ![Dashboard Overview](dashboards/overview.png)
