@@ -51,3 +51,7 @@ Below is the overview page from the Power BI dashboard, with additional dashboar
 * **Furniture is the weakest category, and Tables is a structural loss-maker**. Furniture's margin is just 6.9%, versus 14.0% for Technology and 13.7% for Office Supplies. At the sub-category level, **Tables lost -$64,083 overall (an -8.5% margin)** despite generating $757K in sales which is the single biggest drag on profitability across the product line.
 
   ![Visual Overview](Week_2_report_visuals/product_category_margin.png)
+
+* **Profitability is highly uneven by region, independent of sales volume**. Southeast Asia generates **$884K in sales but only a 2.0% margin (driven by a 20.9% average discount rate)**, while Canada despite modest sales of $66,928 posts the best margin in the business at 26.6%. The Central region drives the highest total sales **($2.82M) at a healthy 11.0% margin**, making it the most reliable large market.
+
+  ![Visual Overview](Week_2_report_visuals/region_margin.png)
