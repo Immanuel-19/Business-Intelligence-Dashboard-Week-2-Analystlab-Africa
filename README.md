@@ -55,3 +55,7 @@ Below is the overview page from the Power BI dashboard, with additional dashboar
 * **Profitability is highly uneven by region, independent of sales volume**. Southeast Asia generates **$884K in sales but only a 2.0% margin (driven by a 20.9% average discount rate)**, while Canada despite modest sales of $66,928 posts the best margin in the business at 26.6%. The Central region drives the highest total sales **($2.82M) at a healthy 11.0% margin**, making it the most reliable large market.
 
   ![Visual Overview](Week_2_report_visuals/region_margin.png)
+
+* **Consumer segment dominates order volume, and the U.S. anchors global demand**. Consumers account for 51.46% of orders versus 30.13% Corporate and 18.41% Home Office. At a country level, the United States alone generates 5,009 orders **which is more than three times** the next closest country, Australia (1,420).
+
+  ![Visual Overview](Week_2_report_visuals/countries.png)
