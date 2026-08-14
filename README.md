@@ -48,3 +48,6 @@ Below is the overview page from the Power BI dashboard, with additional dashboar
 
   ![Visual Overview](Week_2_report_visuals/profit_margin_vs_discount_band.png)
 
+* **Furniture is the weakest category, and Tables is a structural loss-maker**. Furniture's margin is just 6.9%, versus 14.0% for Technology and 13.7% for Office Supplies. At the sub-category level, **Tables lost -$64,083 overall (an -8.5% margin)** despite generating $757K in sales which is the single biggest drag on profitability across the product line.
+
+  ![Visual Overview](Week_2_report_visuals/product_category_margin.png)
