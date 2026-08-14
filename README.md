@@ -59,3 +59,16 @@ Below is the overview page from the Power BI dashboard, with additional dashboar
 * **Consumer segment dominates order volume, and the U.S. anchors global demand**. Consumers account for 51.46% of orders versus 30.13% Corporate and 18.41% Home Office. At a country level, the United States alone generates 5,009 orders **which is more than three times** the next closest country, Australia (1,420).
 
   ![Visual Overview](Week_2_report_visuals/countries.png)
+
+
+### Management Recommendations:
+
+* **Cap discounts at 20% company-wide**, with tiered approval required above that threshold. This directly targets the **$848,886** in profit currently lost to over-discounting, since margin turns negative beyond the 11-20% band.
+ 
+* **Review or discontinue the Tables sub-category**. Given its **-$64,083 loss and -8.5% margin**, management should renegotiate supplier costs, reprice, or phase out underperforming Table SKUs, reallocating shelf space and catalogue focus to high-margin Technology products
+
+* **Rebalance regional discount strategy**, especially in Southeast Asia. With a 20.9% average discount driving margin down to just 2.0%, Southeast Asia should adopt the more disciplined pricing seen in Canada and Central Asia, where lower discounting sustains 17-27% margins
+
+* **Use seasonal order trends to drive inventory and staffing planning**. The clear **September-November** demand peak should inform proactive stock build-up and staffing ahead of Q4, minimizing stockouts in high-margin categories during the highest-order months
+
+* **Target Home Office and Corporate segments for growth**. These segments currently trail Consumer in order volume (18.4% and 30.1% respectively) but carry comparable margins (11.5-12.0%); targeted B2B and Home Office campaigns could grow volume without the margin erosion seen from Consumer-driven discounting.
