@@ -42,9 +42,9 @@ Below is the overview page from the Power BI dashboard, with additional dashboar
 
 * **Growth is strong but margin is stagnant**. Total Sales reached $12.6M (+51.5% YoY) and Total Profit reached $1.47M (+52.3% YoY), yet Profit Margin moved only from 11.5% to 11.6%. This shows that revenue growth is being driven largely by volume, not profitability.
 
-![Visual Overview](Week_2_report_visuals/kpi_cards.png)
+* ![Visual Overview](Week_2_report_visuals/kpi_cards.png)
 
 * **Discounting above roughly 20% is actively destroying profit**. Profit margin decays from +25.3% at 0% discount to -111.0% at discounts of 50%+, turning negative between the 11-20% and 21-30% bands. The business lost $848,886 to discounts over 20% this year which is up 50.9% from $562,543 the prior year.
 
-![Visual Overview](Week_2_report_visuals/profit_margin_vs_discount_band.png)
+* ![Visual Overview](Week_2_report_visuals/profit_margin_vs_discount_band.png)
 
